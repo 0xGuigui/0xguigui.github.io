@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes"?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Linux on 0xGuigui</title>
+    <link>https://example.com/categories/linux/</link>
+    <description>Recent content in Linux on 0xGuigui</description>
+    <generator>Hugo</generator>
+    <language>en</language>
+    <lastBuildDate>Tue, 17 Sep 2024 19:59:44 +0200</lastBuildDate>
+    <atom:link href="https://example.com/categories/linux/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Déplacer Une Partition Avec Gparted</title>
+      <link>https://example.com/post/linux/move-partition-with-gparted/move-parition-with-gparted/</link>
+      <pubDate>Tue, 17 Sep 2024 19:59:44 +0200</pubDate>
+      <guid>https://example.com/post/linux/move-partition-with-gparted/move-parition-with-gparted/</guid>
+      <description>&lt;h1 id=&#34;déplacer-une-partition-avec-gparted&#34;&gt;Déplacer une partition avec GParted&lt;/h1&gt;&#xA;&lt;p&gt;GParted Live est une distribution Linux spécialisée dans la gestion des partitions de disque dur.&#xA;Ce guide explique comment déplacer une partition d&amp;rsquo;un disque à l&amp;rsquo;aide de GParted Live.&lt;/p&gt;&#xA;&lt;h2 id=&#34;prérequis&#34;&gt;Prérequis&lt;/h2&gt;&#xA;&lt;p&gt;Avant de commencer, disposer des éléments suivants :&lt;/p&gt;&#xA;&lt;ul&gt;&#xA;&lt;li&gt;Un iso du système GParted (&lt;a href=&#34;https://gparted.org/download.php&#34;&gt;https://gparted.org/downloads&lt;/a&gt;) :&lt;/li&gt;&#xA;&lt;li&gt;Accès à un ordinateur avec le disque que vous souhaitez modifier.&lt;/li&gt;&#xA;&lt;/ul&gt;&#xA;&lt;p&gt;L&amp;rsquo;idée ici c&amp;rsquo;est qu&amp;rsquo;on à une partition utilisée entre la partition que l&amp;rsquo;on veut étendre et la partition non alloué&#xA;&lt;img src=&#34;files/image.png&#34; alt=&#34;image.png&#34;&gt;&lt;/p&gt;</description>
+    </item>
+  </channel>
+</rss>
