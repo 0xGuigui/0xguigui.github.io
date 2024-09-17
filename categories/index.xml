@@ -2,24 +2,24 @@
 <rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
   <channel>
     <title>Categories on 0xGuigui</title>
-    <link>https://example.com/categories/</link>
+    <link>https://0xguigui.github.io/categories/</link>
     <description>Recent content in Categories on 0xGuigui</description>
     <generator>Hugo</generator>
     <language>en</language>
     <lastBuildDate>Tue, 17 Sep 2024 19:59:44 +0200</lastBuildDate>
-    <atom:link href="https://example.com/categories/index.xml" rel="self" type="application/rss+xml" />
+    <atom:link href="https://0xguigui.github.io/categories/index.xml" rel="self" type="application/rss+xml" />
     <item>
       <title>Linux</title>
-      <link>https://example.com/categories/linux/</link>
+      <link>https://0xguigui.github.io/categories/linux/</link>
       <pubDate>Tue, 17 Sep 2024 19:59:44 +0200</pubDate>
-      <guid>https://example.com/categories/linux/</guid>
+      <guid>https://0xguigui.github.io/categories/linux/</guid>
       <description></description>
     </item>
     <item>
       <title>Windows</title>
-      <link>https://example.com/categories/windows/</link>
+      <link>https://0xguigui.github.io/categories/windows/</link>
       <pubDate>Tue, 17 Sep 2024 19:22:01 +0200</pubDate>
-      <guid>https://example.com/categories/windows/</guid>
+      <guid>https://0xguigui.github.io/categories/windows/</guid>
       <description></description>
     </item>
   </channel>
