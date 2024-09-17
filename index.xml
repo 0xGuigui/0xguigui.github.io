@@ -6,8 +6,15 @@
     <description>Recent content on 0xGuigui</description>
     <generator>Hugo</generator>
     <language>en</language>
-    <lastBuildDate>Tue, 17 Sep 2024 19:59:44 +0200</lastBuildDate>
+    <lastBuildDate>Tue, 17 Sep 2024 20:36:06 +0200</lastBuildDate>
     <atom:link href="https://0xguigui.github.io/index.xml" rel="self" type="application/rss+xml" />
+    <item>
+      <title>Copyright</title>
+      <link>https://0xguigui.github.io/post/legal/copyright/</link>
+      <pubDate>Tue, 17 Sep 2024 20:36:06 +0200</pubDate>
+      <guid>https://0xguigui.github.io/post/legal/copyright/</guid>
+      <description>&lt;h1 id=&#34;droits-dauteur-et-conditions-dutilisation&#34;&gt;Droits d&amp;rsquo;Auteur et Conditions d&amp;rsquo;Utilisation&lt;/h1&gt;&#xA;&lt;h2 id=&#34;copyright--2024-0xguigui--https0xguiguigithubio&#34;&gt;Copyright © 2024 0xGuigui – &lt;a href=&#34;https://0xguigui.github.io/&#34;&gt;https://0xguigui.github.io/&lt;/a&gt;&lt;/h2&gt;&#xA;&lt;p&gt;Tous les contenus de ce site, y compris mais sans s&amp;rsquo;y limiter les articles, tutoriels, write-ups, et documentations, sont protégés par les lois françaises et internationales relatives à la propriété intellectuelle, notamment les dispositions du &lt;strong&gt;Code de la Propriété Intellectuelle&lt;/strong&gt; (CPI) en France, ainsi que les traités internationaux, tels que la &lt;strong&gt;Convention de Berne pour la protection des œuvres littéraires et artistiques&lt;/strong&gt;.&lt;/p&gt;</description>
+    </item>
     <item>
       <title>Déplacer Une Partition Avec Gparted</title>
       <link>https://0xguigui.github.io/post/linux/move-partition-with-gparted/move-parition-with-gparted/</link>
